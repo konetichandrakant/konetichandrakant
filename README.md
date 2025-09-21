@@ -12,7 +12,7 @@
 
 ## 🎓 Education
 - **M.S. Computer Science**, *North Carolina State University* (Aug 2024 – May 2026)  
-  Coursework: Data Structures & Algorithms, Object-Oriented Design, Software Engineering, Operating Systems, Networks  
+  **Coursework:** Data Structures & Algorithms, Object-Oriented Design, Software Engineering, Operating Systems, Computer Networks
 - **B.Tech Information Technology**, *IIEST Shibpur* (Nov 2020 – May 2024)
 
 ---
