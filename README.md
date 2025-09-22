@@ -1,77 +1,71 @@
-# 👋 Hi, I'm **Chandrakant Koneti**
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandrakant-koneti/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/konetichandrakant)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrakantkonetius@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/konetichandrakant/)
+<h1 align="center">Hi, I'm Chandrakant Koneti! 👋</h1>
+<h3 align="center">Software Engineer | Full-Stack Developer | Cloud & AI Enthusiast</h3>
 
-> 💻 *Master’s Student in Computer Science @ North Carolina State University*  
-> 🚀 *Software Engineer | Full-Stack Developer | Cloud Enthusiast*  
+<img align="right" alt="Coding" width="300" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=konetichandrakant&label=Profile%20views&color=0e75b6&style=flat" alt="konetichandrakant" /> </p>
 
-## 🎓 Education
-- **M.S. Computer Science**, *North Carolina State University* (Aug 2024 – May 2026)  
-  **Coursework:** Data Structures & Algorithms, Object-Oriented Design, Software Engineering, Operating Systems, Computer Networks
-- **B.Tech Information Technology**, *IIEST Shibpur* (Nov 2020 – May 2024)
+- 🌱 I’m currently pursuing a **Master’s in Computer Science** at **North Carolina State University** *(Aug 2024 – May 2026)*.  
+- 🎓 Bachelor of Technology in **Information Technology** from **IIEST, Shibpur, India** *(Nov 2020 – May 2024)*.
+- 🚀 Skills:
+  - **Programming:** Java, Python, JavaScript, TypeScript, C++, HTML, CSS, SQL
+  - **Frameworks:** Spring Boot, React, FastAPI, Node.js, Redux, Material-UI, Webpack, Temporal
+  - **Cloud & DevOps:** AWS (Lambda, API Gateway, CloudWatch, DynamoDB, S3, Cognito, Bedrock, IAM), Docker, Git, CI/CD, Linux
+  - **Databases & Messaging:** MySQL, PostgreSQL, MongoDB, Redis, SQLite, Kafka, RabbitMQ
+  - **Testing & Tools:** Mockito, Jest, Pytest, Postman, Swagger, Agile (Kanban, Scrum), Jira
 
----
+- 💼 Experience:
+  - **Software Engineer Intern – Reva.AI (May 2025 – Aug 2025)**  
+    Built and deployed AWS Lambdas with API Gateway & DynamoDB, optimized AI workflows with Java Spring Boot & Temporal, and reduced API latency with Python FastAPI services.
+  - **Frontend Engineer Intern – RabbitLoader (Sep 2023 – Dec 2023)**  
+    Migrated React micro-frontend, improved UI load time by 70%, and implemented Redux & Webpack optimizations.
+  - **Software Developer Intern – Cambridge Technology (May 2023 – Jul 2023)**  
+    Built Spring Boot microservices for large-scale medical data ingestion and streaming with Kafka & RabbitMQ.
 
-## 🧑‍💻 Technical Skills
+- 🏆 Achievements:
+  - Top 2% Coder (Knight Badge) on **LeetCode**  
+  - **Meta Front-End Developer** Certificate – Coursera
 
-**Languages**: Java · Python · JavaScript · TypeScript · C++ · HTML · CSS · SQL  
-**Frameworks**: Spring Boot · React · FastAPI · Node.js · Redux · Material-UI · Webpack · Temporal  
-**Cloud / DevOps**: AWS (Lambda, API Gateway, CloudWatch, DynamoDB, S3, Cognito, Bedrock, IAM) · Docker · CI/CD  
-**Databases & Messaging**: MySQL · PostgreSQL · MongoDB · Redis · Kafka · RabbitMQ  
-**Tools & Practices**: Git · Postman · Swagger · Linux · Mockito · Jest · Pytest · Agile (Kanban/Scrum) · Jira  
+- 💻 Notable Projects:
+  - **AI Low-Code UI Generator – Weberator (IEEE Publication)**  
+    Figma-style drag-and-drop tool generating production-ready React code using OpenAI APIs.
+  - **DrawIt – ML-based Drawing Application**  
+    Multiplayer drawing game with real-time ML canvas processing using React, Redux, and ML5.js.
 
-🏆 **Achievements**  
-- Top 2% Coder (Knight Badge) on [LeetCode](https://leetcode.com/u/konetichandrakant/)  
-- Meta Front-End Developer – [Coursera Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/6E4E7DGN7MVJ)
+- 📫 How to reach me: **chandrakantkonetius@gmail.com**  
+- 🌐 LinkedIn: [linkedin.com/in/chandrakant-koneti](https://www.linkedin.com/in/chandrakant-koneti/)  
+- 💻 GitHub: [github.com/konetichandrakant](https://github.com/konetichandrakant)
 
----
+## Connect with me:
 
-## 💼 Experience
+<p align="left">
+  <a href="https://www.linkedin.com/in/chandrakant-koneti/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrakant-koneti" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:chandrakantkonetius@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="chandrakantkonetius@gmail.com" height="30" width="40" />
+  </a>
+</p>
 
-### **Software Engineer Intern** · Reva.AI · *May 2025 – Aug 2025*
-- Built and deployed 12 Python AWS Lambdas (API Gateway + DynamoDB) for multi-tenant config management, saving **$2K/year**.
-- Enhanced Java Spring Boot Temporal microservice, unifying error handling across 59 activities and reducing retries by **98%**.
-- Cut API latency by **120 ms** with non-blocking logging in a Python FastAPI AI service using Amazon Bedrock + CloudWatch.
-- Developed Cognito-triggered Lambda for real-time SSO sync (Okta, Microsoft, Google) to on-prem DBs.
+# 💻 Languages and Tools
 
-### **Frontend Engineer Intern** · RabbitLoader · *Sep 2023 – Dec 2023*
-- Migrated micro-frontend from React v14→v18; fixed legacy bugs and stabilized production.
-- Reduced load time **12 s → 3.5 s** and bundle size **300 MB → 3 MB** using Redux and Webpack optimizations.
-- Boosted UI performance **4×** with infinite scroll & lazy loading (Material-UI).
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![React](https://img.shields.io/badge/React-%2307405e.svg?style=for-the-badge&logo=react&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%2300C7B7.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%23007ACC.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-### **Software Developer Intern** · Cambridge Technology · *May 2023 – Jul 2023*
-- Built 2 Java Spring Boot microservices processing 2M+ medical records yearly.
-- Integrated RabbitMQ + Kafka for real-time data streaming, preventing **10 GB+** peak-load data loss.
-- Reduced GET API latency by **2 s** via Redis caching; boosted code coverage by **46%**.
+## 📊 GitHub Stats
 
----
-
-## 🚀 Projects
-
-### [AI Low-Code UI Generator Tool – *Weberator*](https://ieeexplore.ieee.org/document/10560283) *(IEEE Published)*  
-Figma-style drag-and-drop editor that converts designs into React code using OpenAI API prompt engineering, cutting dev time **55–65%**.
-
-### [DrawIt](https://github.com/konetichandrakant/drawit)  
-Multiplayer ML-based drawing game built with React, Redux, Material-UI, and ML5.js.  
-Real-time gameplay optimized using Express.js, Socket.io, caching, and secure sessions with JWT.
-
----
-
-## 📊 GitHub & Coding Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=konetichandrakant&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=konetichandrakant&layout=compact&theme=radical)
-
----
-
-## 🤝 Let’s Connect
-💬 Open to internships, full-stack roles, and collaborative projects.  
-📫 **chandrakantkonetius@gmail.com** · [LinkedIn](https://www.linkedin.com/in/chandrakant-koneti/)
-
----
-
-⭐ *Thanks for stopping by! Feel free to fork or star my repositories if you find something useful.*
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=konetichandrakant&theme=react&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
