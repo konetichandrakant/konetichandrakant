@@ -36,7 +36,6 @@
 
 - 📫 How to reach me: **chandrakantkonetius@gmail.com**  
 - 🌐 LinkedIn: [linkedin.com/in/chandrakant-koneti](https://www.linkedin.com/in/chandrakant-koneti/)  
-- 💻 GitHub: [github.com/konetichandrakant](https://github.com/konetichandrakant)
 
 ## Connect with me:
 
