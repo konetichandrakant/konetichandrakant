@@ -39,18 +39,6 @@
 - 📫 How to reach me: **chandrakantkonetius@gmail.com**  
 - 🌐 LinkedIn: [linkedin.com/in/chandrakant-koneti](https://www.linkedin.com/in/chandrakant-koneti/)
 
-## Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/chandrakant-koneti/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Chandrakant Koneti" height="30" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:chandrakantkonetius@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email - chandrakantkonetius@gmail.com" height="30" width="40" />
-  </a>
-</p>
-
 # 💻 Languages and Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
