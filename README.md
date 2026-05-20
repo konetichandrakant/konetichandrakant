@@ -31,7 +31,7 @@
 
 - 📧 Email: **chandrakantkonetius@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/chandrakant-koneti](https://www.linkedin.com/in/chandrakant-koneti/)  
-- 🌐 Portfolio: [your-portfolio-link](your-portfolio-link)
+- 🌐 Portfolio: [ckoneti-portfolio.vercel.app](https://ckoneti-portfolio.vercel.app/)
 
 # 💻 Languages and Tools
 
