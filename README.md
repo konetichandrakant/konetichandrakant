@@ -21,9 +21,9 @@
 
 - 💼 Experience:
   - **AI Engineer Intern – Reva.AI (Jan 2026 – May 2026)**  
-    
-  - **Software Engineer Intern – Reva.AI (May 2025 – Aug 2025)**  
     Built a role-aware Agentic AI cybersecurity chatbot with AWS Bedrock, LangGraph & Python Lambdas, optimized RAG ingestion for 1M+ security records, and reduced hallucinations by 95% through LLMOps-driven evals.
+  - **Software Engineer Intern – Reva.AI (May 2025 – Aug 2025)**  
+    Built and deployed AWS Lambdas with API Gateway & DynamoDB, optimized AI workflows with Java Spring Boot & Temporal, and reduced API latency with Python FastAPI services.
   - **Frontend Engineer Intern – RabbitLoader (Sep 2023 – Dec 2023)**  
     Migrated React micro-frontend, improved UI load time by 70%, and implemented Redux & Webpack optimizations.
   - **Backend Developer Intern – Cambridge Technology (May 2023 – Jul 2023)**  
