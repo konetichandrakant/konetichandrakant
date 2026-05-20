@@ -9,8 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=konetichandrakant&label=Profile%20views&color=0e75b6&style=flat" alt="konetichandrakant" />
 </p>
 
-- 🌱 I’m currently pursuing a **Master’s in Computer Science** at **North Carolina State University** *(May 2026 Grad)*.  
+- 🌱 I recently graduated with a **Master’s in Computer Science** at **North Carolina State University** *(May 2026 Grad)*.  
 - 🎓 Bachelor of Technology in **Information Technology** from **IIEST, Shibpur, India** *(Nov 2020 – May 2024)*.
+
 - 🚀 Skills:
   - **Programming:** Java, Python, JavaScript, TypeScript, C++, HTML, CSS, SQL  
   - **Frameworks:** Spring Boot, React, FastAPI, Node.js, Redux, Material-UI, Webpack, Temporal  
@@ -19,15 +20,18 @@
   - **Testing & Tools:** Mockito, Jest, Pytest, Postman, Swagger, Agile (Kanban, Scrum), Jira
 
 - 💼 Experience:
+  - **AI Engineer Intern – Reva.AI (Jan 2026 – May 2026)**  
+    
   - **Software Engineer Intern – Reva.AI (May 2025 – Aug 2025)**  
-    Built and deployed AWS Lambdas with API Gateway & DynamoDB, optimized AI workflows with Java Spring Boot & Temporal, and reduced API latency with Python FastAPI services.
+    Built a role-aware Agentic AI cybersecurity chatbot with AWS Bedrock, LangGraph & Python Lambdas, optimized RAG ingestion for 1M+ security records, and reduced hallucinations by 95% through LLMOps-driven evals.
   - **Frontend Engineer Intern – RabbitLoader (Sep 2023 – Dec 2023)**  
     Migrated React micro-frontend, improved UI load time by 70%, and implemented Redux & Webpack optimizations.
-  - **Software Developer Intern – Cambridge Technology (May 2023 – Jul 2023)**  
+  - **Backend Developer Intern – Cambridge Technology (May 2023 – Jul 2023)**  
     Built Spring Boot microservices for large-scale medical data ingestion and streaming with Kafka & RabbitMQ.
 
-- 📫 How to reach me: **chandrakantkonetius@gmail.com**  
-- 🌐 LinkedIn: [linkedin.com/in/chandrakant-koneti](https://www.linkedin.com/in/chandrakant-koneti/)
+- 📧 Email: **chandrakantkonetius@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/chandrakant-koneti](https://www.linkedin.com/in/chandrakant-koneti/)  
+- 🌐 Portfolio: [your-portfolio-link](your-portfolio-link)
 
 # 💻 Languages and Tools
 
