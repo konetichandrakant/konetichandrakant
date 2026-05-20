@@ -26,16 +26,6 @@
   - **Software Developer Intern – Cambridge Technology (May 2023 – Jul 2023)**  
     Built Spring Boot microservices for large-scale medical data ingestion and streaming with Kafka & RabbitMQ.
 
-- 🏆 Achievements:
-  - Top 2% Coder (Knight Badge) on **LeetCode**  
-  - **Meta Front-End Developer** Certificate – Coursera
-
-- 💻 Notable Projects:
-  - **AI Low-Code UI Generator – Weberator (IEEE Publication)**  
-    Figma-style drag-and-drop tool generating production-ready React code using OpenAI APIs.
-  - **DrawIt – ML-based Drawing Application**  
-    Multiplayer drawing game with real-time ML canvas processing using React, Redux, and ML5.js.
-
 - 📫 How to reach me: **chandrakantkonetius@gmail.com**  
 - 🌐 LinkedIn: [linkedin.com/in/chandrakant-koneti](https://www.linkedin.com/in/chandrakant-koneti/)
 
