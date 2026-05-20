@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <h1 align="center">Hi, I'm Chandrakant Koneti! 👋</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Cloud & AI Enthusiast</h3>
+<h3 align="center">AI & Full Stack Engineer with hands on experience in AWS Cloud</h3>
 
 <img align="right" alt="Coding" width="300" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif">
 
