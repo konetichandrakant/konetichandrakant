@@ -13,10 +13,10 @@
 - 🎓 Bachelor of Technology in **Information Technology** from **IIEST, Shibpur, India** *(Nov 2020 – May 2024)*.
 
 - 🚀 Skills:
-  - **Programming:** Java, Python, JavaScript, TypeScript, C++, HTML, CSS, SQL  
-  - **Frameworks:** Spring Boot, React, FastAPI, Node.js, Redux, Material-UI, Webpack, Temporal  
-  - **Cloud & DevOps:** AWS (Lambda, API Gateway, CloudWatch, DynamoDB, S3, Cognito, Bedrock, IAM), Docker, Git, CI/CD, Linux  
-  - **Databases & Messaging:** MySQL, PostgreSQL, MongoDB, Redis, SQLite, Kafka, RabbitMQ  
+  - **Programming:** Java, Python, JavaScript, TypeScript, C++, HTML, CSS, SQL
+  - **Frameworks:** Spring Boot, React, FastAPI, Node.js, Redux, Material-UI, Webpack, Temporal
+  - **Cloud & DevOps:** AWS (Lambda, API Gateway, CloudWatch, DynamoDB, S3, Cognito, Bedrock, IAM), Docker, Git, CI/CD, Linux
+  - **Databases & Messaging:** MySQL, PostgreSQL, MongoDB, Redis, SQLite, Kafka, RabbitMQ
   - **Testing & Tools:** Mockito, Jest, Pytest, Postman, Swagger, Agile (Kanban, Scrum), Jira
 
 - 💼 Experience:
