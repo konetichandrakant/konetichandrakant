@@ -20,14 +20,14 @@
   - **Testing & Tools:** Mockito, Jest, Pytest, Postman, Swagger, Agile (Kanban, Scrum), Jira
 
 - 💼 Experience:
-  - **AI Engineer Intern – Reva.AI (Jan 2026 – May 2026)**  
-    Built a role-aware Agentic AI cybersecurity chatbot with AWS Bedrock, LangGraph & Python Lambdas, optimized RAG ingestion for 1M+ security records, and reduced hallucinations by 95% through LLMOps-driven evals.
+  - **AI Engineer – Yottasecure Inc. (Jan 2026 – Present)**  
+    Building a role-aware RAG Agentic AI cybersecurity chatbot with Python, AWS Bedrock & LangGraph (32+ action tools), optimized OpenSearch VDB indexing for 1M+ vulnerability records via 7 serverless Lambda pipelines with EventBridge & staged S3 (deployed as IaC with AWS CDK in TypeScript) saving $30K/yr, and cut agent hallucinations by 95% through DeepEval benchmarking of tool selection & retrieval quality.
   - **Software Engineer Intern – Reva.AI (May 2025 – Aug 2025)**  
-    Built and deployed AWS Lambdas with API Gateway & DynamoDB, optimized AI workflows with Java Spring Boot & Temporal, and reduced API latency with Python FastAPI services.
+    Cut streaming API latency by 1.2s across 10+ AI services (FastAPI & LangChain) via reusable async logging decorators streaming usage & billing events to New Relic, improved long-running AI workflow reliability by 98% with 59 Temporal activities (Spring Boot), and saved $5K/yr centralizing multi-tenant configs from 20+ Kubernetes clusters into DynamoDB via 13 AWS Lambdas exposed through API Gateway.
   - **Frontend Engineer Intern – RabbitLoader (Sep 2023 – Dec 2023)**  
-    Migrated React micro-frontend, improved UI load time by 70%, and implemented Redux & Webpack optimizations.
-  - **Backend Developer Intern – Cambridge Technology (May 2023 – Jul 2023)**  
-    Built Spring Boot microservices for large-scale medical data ingestion and streaming with Kafka & RabbitMQ.
+    Migrated a core micro-frontend from React 14 to React 18 and optimized Webpack bundling, cutting page-render latency by 6s and memory usage by 270 MB while preventing production regressions, and built search features (advanced filters, infinite scroll, lazy loading) plus Node.js mock APIs for automated E2E testing, reducing QA cycles by 30%.
+  - **Backend Engineer Intern – Cambridge Technology (May 2023 – Jul 2023)**  
+    Built a Spring Boot report management system processing 100K+/weekly records (stored in Amazon S3, notified via RabbitMQ) with client-designated PHI safeguards, and reduced recommendation-pipeline costs by $20K/yr via Java Kafka workflows routing minimum-necessary patient data to ML systems.
 
 - 📧 Email: **chandrakantkonetius@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/chandrakant-koneti](https://www.linkedin.com/in/chandrakant-koneti/)  
